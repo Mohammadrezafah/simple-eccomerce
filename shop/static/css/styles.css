@@ -1,0 +1,48 @@
+@font-face {
+  font-family: DejaVuSerif;
+  src: url("../download/DejaVuSerif.eot");
+  src: local('☺'), local('Dejavu Serif'), url("../download/DejaVuSerif.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: DejaVuSerif;
+  src: url("../download/DejaVuSerif-Italic.eot");
+  src: local('☺'), local('Dejavu Serif Italic'), url("../download/DejaVuSerif-Italic.ttf") format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: DejaVuSerif;
+  src: url("../download/DejaVuSerif-Bold.eot");
+  src: local('☺'), local('Dejavu Serif Bold'), url("../download/DejaVuSerif-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: DejaVuSerif;
+  src: url("../download/DejaVuSerif-BoldItalic.eot");
+  src: local('☺'), local('Dejavu Serif Bold Italic'), url("../download/DejaVuSerif-BoldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: DejaVuSansCondensed;
+  src: url("../download/DejaVuSansCondensed.eot");
+  src: local('☺'), local('Dejavu Sans Condensed'), url("../download/DejaVuSansCondensed.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: DejaVuSansCondensed;
+  src: url("../download/DejaVuSansCondensed-Bold.eot");
+  src: local('☺'), local('Dejavu Sans Condensed Bold'), url("../download/DejaVuSansCondensed-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: DejaVuSansMono;
+  src: url("../download/DejaVuSansMono.eot");
+  src: local('☺'), local('Dejavu Sans Mono'), url("../download/DejaVuSansMono.ttf") format("truetype");
+}
